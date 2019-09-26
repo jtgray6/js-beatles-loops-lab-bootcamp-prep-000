@@ -22,5 +22,8 @@ function iLoveTheBeatles (number) {
   let x=0
   do {
     final[x]=console.log("I love the Beatles!")
+    number++
+    x=x+1
   } while (number<15)
+  return final
 }
