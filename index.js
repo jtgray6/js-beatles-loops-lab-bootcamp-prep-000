@@ -21,7 +21,7 @@ function iLoveTheBeatles (number) {
   var final = []
   let x=0
   do {
-    final[x]=console.log("I love the Beatles!")
+    final[x]="I love the Beatles!"
     number++
     x=x+1
   } while (number<15)
