@@ -19,5 +19,8 @@ function johnLennonFacts (facts) {
 
 function iLoveTheBeatles (number) {
   var final = []
+  let x=0
   do {
+    final[x]=console.log("I love the Beatles!")
+  }
 }
